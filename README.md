@@ -1,5 +1,9 @@
 # Camera Plugin
 
+## Note!
+
+This repository is a copy of the original Camera plugin in the official Tauri plugins workspace repository: https://github.com/tauri-apps/plugins-workspace/tree/feat/camera/plugins/camera.
+
 Prompt the user to take a photo using the camera or pick an image from the gallery. Mobile only.
 
 ## Install
